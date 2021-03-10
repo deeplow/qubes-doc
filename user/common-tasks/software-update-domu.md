@@ -18,6 +18,14 @@ Updating these VMs also allows you to receive various non-security bug fixes and
 
 ## Installing software in TemplateVMs
 
+They easiest and safest way of installing software is through the default package manager of your template. Each linux distribution (fedora, debian, etc.) ships with its own. For example, for Fedora it is called `dnf` and for Debian `apt`. You'll have to find the name of the software that you want to install for the template's distribution first.
+
+If the software is not available via the respective package manager, you'll have to follow a different installation method:
+  - [Installing Snap Packages]
+  - [Installing from `.deb` or `.rpm`](https://qubes-os.discourse.group/t/installing-software-in-qubes-from-deb-rpm/2890/1)
+  - 
+
+
 To permanently install new software in a TemplateVM:
 
  1. Start the TemplateVM.

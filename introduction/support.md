@@ -354,8 +354,7 @@ optional [Google Groups web interface](https://groups.google.com/group/qubes-tra
 
 ## Forum
 
-The official [Qubes Forum](https://qubes-os.discourse.group) is a place where you can ask questions, get help, share tips and experiences, and more! For a long time, members of our community have sought a privacy-respecting forum experience with modern features that traditional mailing lists do not support. The open-source [Discourse](https://www.discourse.org/) platform fills this need for us, as it does for many other open-source projects. Thanks
-to their generous [free hosting for open source projects](https://blog.discourse.org/2018/11/free-hosting-for-open-source-v2/), we're pleased to be able to create this space for our community.
+The official [Qubes Forum](https://forum.qubes-os.org) is a place where you can ask questions, get help, share tips and experiences, and more! For a long time, members of our community have sought a privacy-respecting forum experience with modern features that traditional mailing lists do not support. The open-source [Discourse](https://www.discourse.org/) platform fills this need for us, as it does for many other open-source projects.
 
 ### Why was this forum created?
 
@@ -365,7 +364,7 @@ privacy implications and user experience were unacceptable for many members of
 our community, especially with the recent addition of a sign-in requirement to
 view threads. Many of you value the lower barrier to entry, organization,
 ease-of-use, and modern social features that today's forums support. Moreover,
-Discourse [features email integration](https://qubes-os.discourse.group/t/using-the-forum-via-email/533/1)
+Discourse [features email integration](https://forum.qubes-os.org/t/using-the-forum-via-email/533/1)
 for those who still prefer the traditional mailing list format.
 
 ### How is this different from our mailing lists?
@@ -390,7 +389,7 @@ was introduced. We believe that this additional venue fosters the continued
 growth of community participation and improves everyone's experience. In
 addition, we fully expect that many community members -- especially the most
 active ones -- will choose to participate in both venues. (Again, for those who
-still prefer interacting via email, [Discourse supports that too](https://qubes-os.discourse.group/t/using-the-forum-via-email/533/1)!)
+still prefer interacting via email, [Discourse supports that too](https://forum.qubes-os.org/t/using-the-forum-via-email/533/1)!)
 
 
 ## Social media ##

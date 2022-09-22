@@ -218,6 +218,14 @@ All three of these mentioned desktop environments have their own [human interfac
 
 ---
 
+### Remote Qubes Testing
+
+It is not always possible to do in-person usability studies with Qubes. And shipping a Qubes laptop to the participants isn't practical either. And asking participants to install a VNC client may seem like a bit too much to ask.
+
+[This community guide](https://forum.qubes-os.org/t/13817) explains how users can test Qubes through Tor Browser. It is limited by the fact that the Tor network adds 2-4 seconds of latency. But this can be further improved if instead of using onion services, we serve a website through port-forwarding and DNS.
+
+---
+
 ## Further Learning & Inspiration
 
 Learning to make well designing intuitive interfaces and software is specialized skillset that can take years to cultivate, but if you are interested in furthering your understanding, we suggest the following resources:
